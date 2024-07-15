@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Asish/IdeaProjects/ATB6xLearningSelenium">
         <classes>
-            <class name="com.thetestingacademy.ex_selenium.Lab298">
+            <class name="com.thetestingacademy.ExSelenium11072024.Lab298">
                 <methods>
                     <include name="vWoLogin"/>
                 </methods>

@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_selenium;
+package com.thetestingacademy.ExSelenium11072024;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.chrome.ChromeDriver;

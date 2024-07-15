@@ -1,8 +1,7 @@
-package com.thetestingacademy.ex_selenium;
+package com.thetestingacademy.ExSelenium11072024;
 
 import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
